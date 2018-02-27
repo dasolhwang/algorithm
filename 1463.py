@@ -5,7 +5,8 @@ q = int(sys.stdin.readline().strip())
 
 def Bottom_Up(x):
 	D = [None]*(x+1)
-	D[1]=0
+	D[1] = 0
+	
 	for i in range(2,x+1):
 		D[i] = D[i-1] + 1
 

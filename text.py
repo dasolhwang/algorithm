@@ -1,3 +1,6 @@
+import sys
 q = lambda: sys.stdin.readline().strip()
-for i in range(3):
-	print(q)
+print(q.strip.split())
+
+for i in range(6):
+	print(q())

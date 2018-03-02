@@ -23,5 +23,3 @@ for _ in range(n):
 	
 	elif temp=='size':
 		print(len(stack))
-
-		

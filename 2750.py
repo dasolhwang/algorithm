@@ -4,7 +4,6 @@ n = int(input())
 x = []
 for i in range(n):
     x.append(int(input()))
-
 # BubbleSort
 for i in range(n):
     for j in range(n - 1):

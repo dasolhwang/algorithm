@@ -1,5 +1,4 @@
 import sys
-
 n = sys.stdin.readline().strip() # strip()공백 제거
 stack = []
 

@@ -2,7 +2,6 @@
  M 이상 N 이하의 소수를 모두 출력하는 프로그램을 작성하시오.
 '''
 
-
 # 2. 에라토스테네스
 M = int(input()); N = int(input())
 def isPrime(num):

@@ -1,7 +1,7 @@
 import sys
-
 n = int(input())
 x = []
+
 for i in range(n):
     x.append(int(input()))
 # BubbleSort

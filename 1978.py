@@ -1,5 +1,4 @@
 # 나누기(/) 몫(//) 나머지(%)
-# 소수 : 1과 자기 자신으로밖에 나누어지지 않는 정수 (1제외)
 
 import sys
 n = int(sys.stdin.readline())

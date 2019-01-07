@@ -1,5 +1,7 @@
+'''
 import sys
 r = lambda : sys.stdin.readline().strip()
+'''
 
 # 쇠막대기
 f = open("input.txt", "r")

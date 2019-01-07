@@ -1,7 +1,6 @@
 f = open("input.txt","r")
-
-
 string = f.readlines()
+
 # 끝을 모르는 입력 받기
 big = [chr(i) for i in range(65, 91)]
 small = [chr(i) for i in range(97, 123)]

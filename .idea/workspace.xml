@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ebccf973-90b3-4e0d-94f3-e7f0bd3faab9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/10824.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11656.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1463.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2743.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1158.py" beforeDir="false" afterPath="$PROJECT_DIR$/1158.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -35,11 +31,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="1463.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="1463.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1463.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
               <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1158.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/1158.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" selection-start-line="14" selection-end-line="24" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -69,7 +74,6 @@
         <option value="$PROJECT_DIR$/sds-1.py" />
         <option value="$PROJECT_DIR$/10799.py" />
         <option value="$PROJECT_DIR$/1406.py" />
-        <option value="$PROJECT_DIR$/1158.py" />
         <option value="$PROJECT_DIR$/week-study/10866.py" />
         <option value="$PROJECT_DIR$/10866.py" />
         <option value="$PROJECT_DIR$/10809.py" />
@@ -81,6 +85,7 @@
         <option value="$PROJECT_DIR$/11656.py" />
         <option value="$PROJECT_DIR$/input.txt" />
         <option value="$PROJECT_DIR$/1463.py" />
+        <option value="$PROJECT_DIR$/1158.py" />
       </list>
     </option>
   </component>
@@ -261,10 +266,10 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10359408" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10359408" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32969698" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32969698" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32969698" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -492,13 +497,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1158.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/week-study/10866.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -573,6 +571,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1158.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="24" selection-end-column="21" />
         </state>
       </provider>
     </entry>

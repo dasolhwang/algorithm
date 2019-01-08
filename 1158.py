@@ -7,16 +7,19 @@
 N과 M이 주어지면 (N,M)-조세퍼스 순열을 구하는 프로그램을 작성하시오.
 '''
 
+
 f = open("input.txt", "r")
 N, M = map(int, f.readline().split())
 queue = [i+1 for i in range(N)]
+
 result = ''
-while len(queue) != 1:
-    for i in range(M-1):
+while True:
+    for _ in range(M-1):
         queue.append(queue[0])
         queue = queue[1:]
     result = result + str(queue[0]) + ', '
     queue = queue[1:]
+    if len(queue) == 1:
+        break
 result += str(queue[0])
-
 print('<'+result+'>')

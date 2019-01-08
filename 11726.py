@@ -16,10 +16,12 @@ def bottom_up(n):
     return D[n]
 print(bottom_up(n)%10007)
 
-
-def top_down(n): # 런타임 에러
-    if n <= 2:
-        return n
+'''
+def top_down(n): 런타임에러
+    if n <= 1:
+        return 1
     else:
         return (top_down(n-1) + top_down(n-2))
 print(top_down(n)%10007)
+
+'''

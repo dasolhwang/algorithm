@@ -1,11 +1,15 @@
-import sys
-
-n = int(sys.stdin.readline())
+f = open("input.txt", "r")
+n = int(f.readline())
 x = []
 
-for i in range(n):
-    x.append(int(sys.stdin.readline()))
+for _ in range(n):
+    x.append(int(f.readline()))
+x = sorted(x)
 
+for i in x:
+    print(i)
+
+'''
 gap = n // 2
 while gap > 0:
     for start in range(gap):
@@ -25,3 +29,4 @@ for i in x:
     print(i)
 
 # 시간초과
+'''

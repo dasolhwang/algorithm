@@ -2,14 +2,13 @@ f = open("input.txt", "r")
 n, m = map(int, f.readline().split())
 
 graphs = [[] for _ in range(n)]
-
 for _ in range(m):
     a,b = map(int,f.readline().split())
     graphs[a-1].append(b-1)
     graphs[b-1].append(a-1)
 
-check = [False]*n
 
+check = [False]*n
 def dfs(x):
     check[x] = True
     for y in graphs[x]:

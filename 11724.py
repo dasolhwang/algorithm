@@ -7,9 +7,8 @@ for _ in range(m):
     graphs[a-1].append(b-1)
     graphs[b-1].append(a-1)
 
-
 check = [False]*n
-1def dfs(x):
+def dfs(x):
     check[x] = True
     for y in graphs[x]:
         if check[y] == False:

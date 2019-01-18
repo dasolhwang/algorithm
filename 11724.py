@@ -9,7 +9,7 @@ for _ in range(m):
 
 
 check = [False]*n
-def dfs(x):
+1def dfs(x):
     check[x] = True
     for y in graphs[x]:
         if check[y] == False:

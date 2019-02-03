@@ -2,10 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ebccf973-90b3-4e0d-94f3-e7f0bd3faab9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/kakao-coding-test/15953.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kakao-coding-test/15954.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11723.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14502.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14889.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15683.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ds.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kakao-coding-test/Q1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kakao-coding-test/다트게임.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kakao-coding-test/비밀지도.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kakao-coding-test/셔틀버스.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kakao-coding-test/실패율.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kakao-coding-test/오픈채팅방.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kakao-coding-test/캐시.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11724.py" beforeDir="false" afterPath="$PROJECT_DIR$/11724.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,19 +28,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="input.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kakao-coding-test/input.txt">
+        <entry file="file://$PROJECT_DIR$/input.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="3" selection-start-column="3" selection-end-column="3" />
+            <state relative-caret-position="75">
+              <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="11724.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/11724.py">
+      <file leaf-file-name="11723.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/11723.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="2" lean-forward="true" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+            <state relative-caret-position="461">
+              <caret line="33" column="25" lean-forward="true" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -49,14 +60,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/1978.py" />
-        <option value="$PROJECT_DIR$/1929.py" />
-        <option value="$PROJECT_DIR$/10828.py" />
-        <option value="$PROJECT_DIR$/1874.py" />
-        <option value="$PROJECT_DIR$/9012.py" />
-        <option value="$PROJECT_DIR$/10845.py" />
-        <option value="$PROJECT_DIR$/1966.py" />
-        <option value="$PROJECT_DIR$/sds-1.py" />
         <option value="$PROJECT_DIR$/10799.py" />
         <option value="$PROJECT_DIR$/1406.py" />
         <option value="$PROJECT_DIR$/week-study/10866.py" />
@@ -87,18 +90,32 @@
         <option value="$PROJECT_DIR$/2011.py" />
         <option value="$PROJECT_DIR$/2146.py" />
         <option value="$PROJECT_DIR$/1991.py" />
-        <option value="$PROJECT_DIR$/input.txt" />
         <option value="$PROJECT_DIR$/1149.py" />
         <option value="$PROJECT_DIR$/kakao-coding-test/15953.py" />
-        <option value="$PROJECT_DIR$/kakao-coding-test/input.txt" />
         <option value="$PROJECT_DIR$/kakao-coding-test/15954.py" />
         <option value="$PROJECT_DIR$/11724.py" />
+        <option value="$PROJECT_DIR$/kakao-coding-test/input.txt" />
+        <option value="$PROJECT_DIR$/14502.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/ds.py" />
+        <option value="$PROJECT_DIR$/14889.py" />
+        <option value="$PROJECT_DIR$/15683.py" />
+        <option value="$PROJECT_DIR$/prac.py" />
+        <option value="$PROJECT_DIR$/kakao-coding-test/비밀지도.py" />
+        <option value="$PROJECT_DIR$/kakao-coding-test/다트.py" />
+        <option value="$PROJECT_DIR$/kakao-coding-test/다트게임.py" />
+        <option value="$PROJECT_DIR$/kakao-coding-test/오픈채팅방.py" />
+        <option value="$PROJECT_DIR$/kakao-coding-test/실패율.py" />
+        <option value="$PROJECT_DIR$/kakao-coding-test/셔틀버스.py" />
+        <option value="$PROJECT_DIR$/kakao-coding-test/캐시.py" />
+        <option value="$PROJECT_DIR$/kakao-coding-test/Q1.py" />
+        <option value="$PROJECT_DIR$/input.txt" />
+        <option value="$PROJECT_DIR$/11723.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="1200" />
-    <option name="width" value="240" />
+    <option name="width" value="168" />
     <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -116,11 +133,6 @@
             <path>
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="kakao-coding-test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -145,8 +157,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.15954">
-    <configuration name="1149" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.11723">
+    <configuration name="11723" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -158,13 +170,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1149.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11723.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="11724" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="14889" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -176,13 +188,31 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11724.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/14889.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="15953" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="15683" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/15683.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Q1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -194,31 +224,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kakao-coding-test/15953.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kakao-coding-test/Q1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="15954" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kakao-coding-test" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kakao-coding-test/15954.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="2146" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="prac" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -230,26 +242,26 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2146.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.11724" />
-      <item itemvalue="Python.2146" />
-      <item itemvalue="Python.1149" />
-      <item itemvalue="Python.15953" />
-      <item itemvalue="Python.15954" />
+      <item itemvalue="Python.14889" />
+      <item itemvalue="Python.15683" />
+      <item itemvalue="Python.prac" />
+      <item itemvalue="Python.Q1" />
+      <item itemvalue="Python.11723" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.15954" />
-        <item itemvalue="Python.15953" />
-        <item itemvalue="Python.1149" />
-        <item itemvalue="Python.11724" />
-        <item itemvalue="Python.2146" />
+        <item itemvalue="Python.11723" />
+        <item itemvalue="Python.Q1" />
+        <item itemvalue="Python.prac" />
+        <item itemvalue="Python.15683" />
+        <item itemvalue="Python.14889" />
       </list>
     </recent_temporary>
   </component>
@@ -277,15 +289,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12473573" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.85641026" visible="true" weight="0.19379845" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32969698" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.39151517" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29090908" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Structure" order="1" sideWeight="0.14358975" side_tool="true" visible="true" weight="0.19379845" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.41939393" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -300,21 +311,21 @@
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10359408" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32969698" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32969698" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.41939393" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
     </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -332,33 +343,20 @@
           <line>5</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/14889.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kakao-coding-test/Q1.py</url>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="10" />
+      <option name="time" value="13" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/1929.py" />
-    <entry file="file://$PROJECT_DIR$/1978.py" />
-    <entry file="file://$PROJECT_DIR$/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="6" lean-forward="true" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1966.py" />
-    <entry file="file://$PROJECT_DIR$/sds-1.py" />
-    <entry file="file://$PROJECT_DIR$/1874.py" />
-    <entry file="file://$PROJECT_DIR$/.gitignore" />
-    <entry file="file://$PROJECT_DIR$/week-study/input_structure.py" />
-    <entry file="file://$PROJECT_DIR$/1929.py" />
-    <entry file="file://$PROJECT_DIR$/10828.py" />
-    <entry file="file://$PROJECT_DIR$/10845.py" />
-    <entry file="file://$PROJECT_DIR$/README.md" />
-    <entry file="file://$PROJECT_DIR$/10799.py" />
-    <entry file="file://$PROJECT_DIR$/week-study/10866.py" />
-    <entry file="file://$PROJECT_DIR$/10809.py" />
-    <entry file="file://$PROJECT_DIR$/10820.py" />
     <entry file="file://$PROJECT_DIR$/10824.py" />
     <entry file="file://$PROJECT_DIR$/11656.py" />
     <entry file="file://$PROJECT_DIR$/1158.py" />
@@ -378,13 +376,11 @@
     <entry file="file://$PROJECT_DIR$/11057.py" />
     <entry file="file://$PROJECT_DIR$/11650.py" />
     <entry file="file://$PROJECT_DIR$/11651.py" />
-    <entry file="file://$PROJECT_DIR$/1260.py" />
     <entry file="file://$PROJECT_DIR$/1406.py" />
     <entry file="file://$PROJECT_DIR$/9465.py" />
     <entry file="file://$PROJECT_DIR$/10844.py" />
     <entry file="file://$PROJECT_DIR$/11052.py" />
     <entry file="file://$PROJECT_DIR$/11053.py" />
-    <entry file="file://$PROJECT_DIR$/2193.py" />
     <entry file="file://$PROJECT_DIR$/2011.py" />
     <entry file="file://$PROJECT_DIR$/2146.py" />
     <entry file="file://$PROJECT_DIR$/1991.py" />
@@ -395,10 +391,72 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/input.txt">
+    <entry file="file://$PROJECT_DIR$/11724.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kakao-coding-test/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1260.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2193.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="8" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1874.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14502.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ds.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14889.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15683.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -409,6 +467,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/kakao-coding-test/다트.py" />
+    <entry file="file://$PROJECT_DIR$/kakao-coding-test/비밀지도.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kakao-coding-test/다트게임.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="34" selection-end-line="25" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/kakao-coding-test/15954.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -416,17 +489,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/kakao-coding-test/input.txt">
+    <entry file="file://$PROJECT_DIR$/kakao-coding-test/오픈채팅방.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="3" selection-start-column="3" selection-end-column="3" />
+        <state relative-caret-position="240">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/11724.py">
+    <entry file="file://$PROJECT_DIR$/kakao-coding-test/실패율.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="2" lean-forward="true" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+        <state relative-caret-position="210">
+          <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kakao-coding-test/셔틀버스.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="46" column="32" selection-start-line="20" selection-end-line="46" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kakao-coding-test/캐시.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kakao-coding-test/Q1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11723.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="33" column="25" lean-forward="true" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
         </state>
       </provider>
     </entry>

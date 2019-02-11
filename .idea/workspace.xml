@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ebccf973-90b3-4e0d-94f3-e7f0bd3faab9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/SW_academy/1204. 최빈수 구하기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/완전탐색/10973.이전 순열.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/완전탐색/10974.모든 순열.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11723.py" beforeDir="false" afterPath="$PROJECT_DIR$/11723.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11723.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SW_academy/1767. 프로세서 연결하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/SW_academy/1767. 프로세서 연결하기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/완전탐색/10972.다음 순열.py" beforeDir="false" afterPath="$PROJECT_DIR$/완전탐색/10972.다음 순열.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/완전탐색/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/완전탐색/input.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,18 +19,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="1204. 최빈수 구하기.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SW_academy/1204. 최빈수 구하기.py">
+      <file leaf-file-name="input.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/완전탐색/input.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
-              <caret line="1" column="21" lean-forward="true" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+              <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="input.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SW_academy/input.txt">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file leaf-file-name="10972.다음 순열.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/완전탐색/10972.다음 순열.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" lean-forward="true" selection-start-line="20" selection-end-line="24" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -44,14 +52,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/1406.py" />
-        <option value="$PROJECT_DIR$/week-study/10866.py" />
-        <option value="$PROJECT_DIR$/10866.py" />
-        <option value="$PROJECT_DIR$/10809.py" />
-        <option value="$PROJECT_DIR$/10808.py" />
-        <option value="$PROJECT_DIR$/10820.py" />
-        <option value="$PROJECT_DIR$/2743.py" />
-        <option value="$PROJECT_DIR$/10824.py" />
         <option value="$PROJECT_DIR$/11656.py" />
         <option value="$PROJECT_DIR$/1158.py" />
         <option value="$PROJECT_DIR$/1463.py" />
@@ -95,6 +95,14 @@
         <option value="$PROJECT_DIR$/input.txt" />
         <option value="$PROJECT_DIR$/11723.py" />
         <option value="$PROJECT_DIR$/SW_academy/1204. 최빈수 구하기.py" />
+        <option value="$PROJECT_DIR$/SW_academy/1859. 백만 장자 프로젝트.py" />
+        <option value="$PROJECT_DIR$/SW_academy/1767. 프로세서 연결하기.py" />
+        <option value="$PROJECT_DIR$/SW_academy/input.txt" />
+        <option value="$PROJECT_DIR$/완전탐색/10972.다음 순열.py" />
+        <option value="$PROJECT_DIR$/완전탐색/10973.이전 순열.py" />
+        <option value="$PROJECT_DIR$/완전탐색/10974.모든 순열.py" />
+        <option value="$PROJECT_DIR$/완전탐색/11723.집합.py" />
+        <option value="$PROJECT_DIR$/완전탐색/input.txt" />
       </list>
     </option>
   </component>
@@ -110,6 +118,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -120,13 +129,12 @@
             <path>
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="SW_academy" type="462c0819:PsiDirectoryNode" />
+              <item name="완전탐색" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -146,8 +154,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1204. 최빈수 구하기">
-    <configuration name="11723" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.1722.순열의 순서">
+    <configuration name="10972.다음 순열" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -155,17 +163,71 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/완전탐색" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11723.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/완전탐색/10972.다음 순열.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="1204. 최빈수 구하기" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="10973.이전 순열" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/완전탐색" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/완전탐색/10973.이전 순열.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="10974.모든 순열" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/완전탐색" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/완전탐색/10974.모든 순열.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="1722.순열의 순서" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/완전탐색" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/완전탐색/1722.순열의 순서.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="1767. 프로세서 연결하기" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -177,80 +239,26 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SW_academy/1204. 최빈수 구하기.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="15683" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/15683.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="Q1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kakao-coding-test" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kakao-coding-test/Q1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="prac" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SW_academy/1767. 프로세서 연결하기.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.15683" />
-      <item itemvalue="Python.prac" />
-      <item itemvalue="Python.Q1" />
-      <item itemvalue="Python.11723" />
-      <item itemvalue="Python.1204. 최빈수 구하기" />
+      <item itemvalue="Python.1767. 프로세서 연결하기" />
+      <item itemvalue="Python.10972.다음 순열" />
+      <item itemvalue="Python.10973.이전 순열" />
+      <item itemvalue="Python.10974.모든 순열" />
+      <item itemvalue="Python.1722.순열의 순서" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.1204. 최빈수 구하기" />
-        <item itemvalue="Python.11723" />
-        <item itemvalue="Python.Q1" />
-        <item itemvalue="Python.prac" />
-        <item itemvalue="Python.15683" />
+        <item itemvalue="Python.1722.순열의 순서" />
+        <item itemvalue="Python.10974.모든 순열" />
+        <item itemvalue="Python.10973.이전 순열" />
+        <item itemvalue="Python.10972.다음 순열" />
+        <item itemvalue="Python.1767. 프로세서 연결하기" />
       </list>
     </recent_temporary>
   </component>
@@ -280,13 +288,13 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.85299146" visible="true" weight="0.19379845" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.85299146" visible="true" weight="0.16772375" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32969698" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29090908" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.29090908" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info id="Structure" order="1" sideWeight="0.14700855" side_tool="true" visible="true" weight="0.19379845" />
+      <window_info id="Structure" order="1" sideWeight="0.14700855" side_tool="true" weight="0.19379845" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.41939393" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -302,12 +310,12 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10359408" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.85299146" visible="true" weight="0.19379845" />
+      <window_info id="Structure" order="1" sideWeight="0.14700855" side_tool="true" visible="true" weight="0.19379845" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32969698" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32969698" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.29090908" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
@@ -338,22 +346,11 @@
           <line>7</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/kakao-coding-test/Q1.py</url>
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="13" />
+      <option name="time" value="14" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/1158.py" />
-    <entry file="file://$PROJECT_DIR$/9012.py" />
-    <entry file="file://$PROJECT_DIR$/2743.py" />
-    <entry file="file://$PROJECT_DIR$/1978.py" />
-    <entry file="file://$PROJECT_DIR$/2750.py" />
-    <entry file="file://$PROJECT_DIR$/10808.py" />
-    <entry file="file://$PROJECT_DIR$/2504.py" />
     <entry file="file://$PROJECT_DIR$/1463.py" />
     <entry file="file://$PROJECT_DIR$/11727.py" />
     <entry file="file://$PROJECT_DIR$/11726.py" />
@@ -383,13 +380,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kakao-coding-test/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -434,13 +424,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/15683.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/prac.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -456,38 +439,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/kakao-coding-test/다트.py" />
-    <entry file="file://$PROJECT_DIR$/kakao-coding-test/비밀지도.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kakao-coding-test/다트게임.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="34" selection-end-line="25" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/kakao-coding-test/15954.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kakao-coding-test/오픈채팅방.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kakao-coding-test/실패율.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -498,6 +453,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kakao-coding-test/다트게임.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="34" selection-end-line="25" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kakao-coding-test/비밀지도.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kakao-coding-test/실패율.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kakao-coding-test/오픈채팅방.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kakao-coding-test/Q1.py" />
     <entry file="file://$PROJECT_DIR$/kakao-coding-test/캐시.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -505,12 +496,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/kakao-coding-test/Q1.py">
+    <entry file="file://$PROJECT_DIR$/kakao-coding-test/input.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        <state>
+          <caret selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SW_academy/1204. 최빈수 구하기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" lean-forward="true" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SW_academy/1859. 백만 장자 프로젝트.py" />
+    <entry file="file://$PROJECT_DIR$/15683.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SW_academy/1767. 프로세서 연결하기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="583">
+          <caret line="59" column="38" selection-start-line="59" selection-start-column="38" selection-end-line="59" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SW_academy/input.txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/11723.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -519,20 +535,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/input.txt">
+    <entry file="file://$PROJECT_DIR$/완전탐색/10973.이전 순열.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        <state relative-caret-position="375">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SW_academy/input.txt">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/완전탐색/10972.다음 순열.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" lean-forward="true" selection-start-line="20" selection-end-line="24" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SW_academy/1204. 최빈수 구하기.py">
+    <entry file="file://$PROJECT_DIR$/완전탐색/11723.집합.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/완전탐색/10974.모든 순열.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/완전탐색/input.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
-          <caret line="1" column="21" lean-forward="true" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
         </state>
       </provider>
     </entry>

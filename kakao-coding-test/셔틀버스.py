@@ -1,5 +1,4 @@
-# 답보고 그대로 씀
-
+# 답
 global inte
 
 def time2min(temp):
